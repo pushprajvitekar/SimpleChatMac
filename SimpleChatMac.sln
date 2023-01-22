@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat", "SimpleChat\SimpleChat.csproj", "{40F81DC8-FE9C-4B06-A942-68A37F830C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mylibztmac", "mylibztmac\mylibztmac.csproj", "{8271C174-D37D-4B0A-A2CB-EE23597D61B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F81DC8-FE9C-4B06-A942-68A37F830C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F81DC8-FE9C-4B06-A942-68A37F830C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F81DC8-FE9C-4B06-A942-68A37F830C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F81DC8-FE9C-4B06-A942-68A37F830C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8271C174-D37D-4B0A-A2CB-EE23597D61B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8271C174-D37D-4B0A-A2CB-EE23597D61B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8271C174-D37D-4B0A-A2CB-EE23597D61B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8271C174-D37D-4B0A-A2CB-EE23597D61B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FF8E30-F705-4379-B2FF-B50B237DFAD5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict>
+		<key>Jzv-fV-PB9</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>Jzv-fV-PB9</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>Mwj-QC-NtX</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>Mwj-QC-NtX</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>Qdc-UV-y8p</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>Qdc-UV-y8p</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>is7-bX-Hol</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>is7-bX-Hol</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>oTv-4k-apr</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>oTv-4k-apr</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>stE-wy-tCW</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>stE-wy-tCW</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>vWu-6K-fae</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>vWu-6K-fae</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>wwl-7d-TBx</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>wwl-7d-TBx</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>zaA-LK-2Bb</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>zaA-LK-2Bb</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict/>
+</dict>
+</plist>
