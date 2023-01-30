@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SimpleChat.app/Contents/MacOS/SimpleChat">
+      <BCSymbolMapName>SimpleChat.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SimpleChat.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/pushparaj/Projects/SimpleChatMac/SimpleChat/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>SimpleChat.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/pushparaj/Projects/SimpleChatMac/SimpleChat</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

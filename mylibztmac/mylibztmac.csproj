@@ -9,6 +9,7 @@
     <TargetFrameworkIdentifier>Xamarin.Mac</TargetFrameworkIdentifier>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
@@ -20,6 +21,8 @@
     <HttpClientHandler>HttpClientHandler</HttpClientHandler>
     <LinkMode>None</LinkMode>
     <AOTMode>None</AOTMode>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Optimize>true</Optimize>
@@ -32,6 +35,7 @@
     <HttpClientHandler>HttpClientHandler</HttpClientHandler>
     <LinkMode>None</LinkMode>
     <AOTMode>None</AOTMode>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,10 +57,16 @@
     <Compile Include="zerotier\Socket.cs" />
     <Compile Include="zerotier\PeerInfo.cs" />
     <Compile Include="zerotier\example.cs" />
+    <Compile Include="Interop\NativeMethods.cs" />
+    <Compile Include="Interop\ZTSocketWrapper.cs" />
+    <Compile Include="Interop\SafeSocket.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="libzt.dylib">
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interop\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>
